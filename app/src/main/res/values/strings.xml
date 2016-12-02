@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <string name="category_hospitals">Hospitals</string>
+
+    <string name="category_parks">Parks</string>
+
+    <string name="category_restaurants">Restaurants</string>
+
+    <string name="category_shopping">Shopping</string>
+    
+    <string name="hospital_name_christ">Christ Hospital</string>
+
+    <string name="hospital_address_christ">4440 95th St, Oak Lawn, IL 60453</string>
+    
+    <string name="hospital_name_little">Little Company of Mary</string>
+
+    <string name="hospital_address_little">2800 95th St, Evergreen Park, IL 60805</string>
+
+    <string name="shopping_center_name_ridge">Chicago Ridge Mall</string>
+
+    <string name="shopping_center_address_ridge">444 Chicago Ridge Mall, Chicago Ridge, IL 60415</string>
+
+    <string name="shopping_center_name_ford">Ford City Mall</string>
+
+    <string name="shopping_center_address_ford">7601 S Cicero Ave, Chicago, IL 60652</string>
+
+    <string name="shopping_center_name_evergreen">Evergreen Marketplace</string>
+
+    <string name="shopping_center_address_evergreen">9100 S Western Ave, Evergreen Park, IL 60805</string>
+
+    <string name="shopping_center_name_plaza">The Plaza</string>
+
+    <string name="shopping_center_address_plaza">9500 S Western Ave, Evergreen Park, IL 60805</string>
+
+    <string name="restaurant_name_crab">The Crazy Crab Chicago</string>
+
+    <string name="restaurant_address_crab">9204 S Western Ave, Evergreen Park, IL 60805</string>
+
+    <string name="restaurant_name_stacked">Stacked</string>
+
+    <string name="restaurant_address_stacked">5273 95th St, Oak Lawn, IL 60453</string>
+
+    <string name="restaurant_name_hearty">Hearty Cafe</string>
+
+    <string name="restaurant_address_hearty">Address: 9623 S Western Ave, Chicago, IL 60643</string>
+
+    <string name="restaurant_name_dicola">DiCola\'s Seafood</string>
+
+    <string name="restaurant_address_dicola">10754 S Western Ave, Chicago, IL 60643</string>
+
+    <string name="park_name_swallow">Swallow Cliff Woods</string>
+
+    <string name="park_address_swallow">11918 S La Grange Rd. Palos Hills, IL 60464</string>
+
+    <string name="park_name_duffy">Duffy Park</string>
+
+    <string name="park_address_duffy">9200 S Millard Ave, Evergreen Park, IL 60805</string>
+
+    <string name="park_name_yukich">Yukich Field</string>
+
+    <string name="park_address_yukich">8900 S Kedzie Ave, Evergreen Park, IL 60805</string>
+
+
+
+
+
+
+
+</resources>
