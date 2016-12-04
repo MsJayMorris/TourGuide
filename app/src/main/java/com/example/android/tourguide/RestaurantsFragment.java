@@ -23,10 +23,10 @@ public class RestaurantsFragment extends Fragment {
 
         // Create a list of words
         final ArrayList<Location> locations = new ArrayList<Location>();
-        locations.add(new Location(R.string.restaurant_name_crab, R.string.restaurant_address_crab));
-        locations.add(new Location(R.string.restaurant_name_dicola, R.string.restaurant_address_dicola));
-        locations.add(new Location(R.string.restaurant_name_hearty, R.string.restaurant_address_hearty));
-        locations.add(new Location(R.string.restaurant_name_stacked, R.string.restaurant_address_stacked));
+        locations.add(new Location(R.string.restaurant_name_crab, R.string.restaurant_address_crab, R.drawable.crazy_crab));
+        locations.add(new Location(R.string.restaurant_name_dicola, R.string.restaurant_address_dicola, R.drawable.dicolas));
+        locations.add(new Location(R.string.restaurant_name_hearty, R.string.restaurant_address_hearty, R.drawable.hearty));
+        locations.add(new Location(R.string.restaurant_name_stacked, R.string.restaurant_address_stacked, R.drawable.stacked_logo));
 
         // Create an {@link WordAdapter}, whose data source is a list of {@link Word}s. The
         // adapter knows how to create list items for each item in the list.
